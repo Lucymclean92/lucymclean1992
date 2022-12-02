@@ -1,0 +1,81 @@
+/*Navigation Bar*/
+
+.nav-item{
+
+    font-size: 1.5rem;
+    
+}
+
+
+
+/*top section of website*/
+
+.row main-image {
+
+    padding: 10% 20%;
+
+}
+
+h1 {
+
+
+    background-color: rgba(234, 234, 234, 0.514);
+    margin-top: 10%;
+    margin-left: 5%;
+    display: inline-block;
+    font-size: 4rem;
+
+}
+
+.main-image-section h2 {
+
+    background-color: rgba(234, 234, 234, 0.514);
+    margin-left: 5%;
+    display: inline-block;
+
+}
+
+.main-image-section {
+
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 550px;
+    background-position: 50% 0;
+    background-size: cover;
+    margin: 0;
+}
+
+.front-page-button{
+
+    padding:10px 20px;
+    margin-top: 3%;
+}
+
+.cv-button {
+
+    margin-left: 5%;
+}
+
+
+/*Skills Section*/
+
+
+
+.skills-box {
+
+    text-align: center;
+    margin-top: 0;
+    padding: 5%;
+}
+
+.icon:hover {
+
+    color: #8f8f8f
+}
+
+/*introduction section*/
+
+.introduction {
+
+    text-align: center;
+}
